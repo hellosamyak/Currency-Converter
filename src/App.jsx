@@ -130,7 +130,7 @@ function App() {
           )}
 
           <div className="bg-gray-200 py-3 px-6 text-center text-gray-600 text-xs">
-            Data provided by Currency API | Updated every 24h
+            Data provided by Currency Converter | Updated every 24h
           </div>
         </div>
       </div>
